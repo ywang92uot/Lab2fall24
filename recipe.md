@@ -1,3 +1,5 @@
+new line added for task_3
+
 # Delicious Chocolate Cake Recipe
 
 ## Ingredients:
@@ -20,3 +22,6 @@
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+
+
+
